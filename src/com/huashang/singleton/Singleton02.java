@@ -6,7 +6,7 @@ package com.huashang.singleton;
  */
 public class Singleton02 {
 
-    private static Singleton02 instance ;
+    private static Singleton02 instance;
 
     private Singleton02() {
     }
